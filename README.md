@@ -1,4 +1,4 @@
-# Facial Verification with Siamese Network
+# Facial Verification
 
 ## Overview
 
